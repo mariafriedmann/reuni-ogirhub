@@ -1,0 +1,13 @@
+h1 {color:brown;
+}
+#ima1 {width: 70%;
+}
+.parte01 {background-color: brown;
+}
+.parte02 {background-color: #1c7233;
+}
+.rio{color: black
+}
+.rio {font-size: large;
+}
+
